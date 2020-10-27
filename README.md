@@ -1,2 +1,2 @@
-# Class-31
-Adding smoke to the angry birds game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
